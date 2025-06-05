@@ -1,27 +1,21 @@
-# Tic Tac Toe Game (Player vs Computer)
+# Rock Paper Scissors Game
+A basic Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The user plays against the computer with real-time score updates and result display.
 
-This is a simple one-player Tic Tac Toe game built using HTML, CSS, and JavaScript. 
+💡 Features
+. One-player game against computer
+. Random choice generation for the computer
+. Win/Loss/Draw logic implemented in JavaScript
+. Score tracking for both player and computer
+. Simple and clean user interface using HTML & CSS
 
-## Features
+🛠️ Technologies Used
+. HTML – Structure of the webpage
+. CSS – Styling and layout
+. JavaScript – Game logic and interactivity
 
-- One-player mode (You vs Computer)
-- Basic computer AI opponent
-- Highlights winning combination
-- Simple and clean UI
+📂 How to Run
+. Download or clone the repository
+. Open index.html in your web browser
+. Click on Rock, Paper, or Scissors to play against the computer
 
-## Technologies Used
-
-- **HTML** – Game structure
-- **CSS** – Styling and layout
-- **JavaScript** – Game logic and AI
-
-## How to Run
-
-1. Download or clone this repository.
-2. Open the `index.html` file in any web browser.
-3. Start playing against the computer!
-
-## Author
-
-Created by Uday kaushal
 
