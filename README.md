@@ -23,5 +23,5 @@ This is a simple one-player Tic Tac Toe game built using HTML, CSS, and JavaScri
 
 ## Author
 
-Created by [Uday kaushal]
+Created by Uday kaushal
 
